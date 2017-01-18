@@ -1,7 +1,7 @@
 module.exports = {
-    FB_PAGE_TOKEN: '',
-    FB_VERIFY_TOKEN: '',
-    API_AI_CLIENT_ACCESS_TOKEN: '',
-    FB_APP_SECRET: '',
-    SERVER_URL: "",
+    FB_PAGE_TOKEN: 'EAAIbnooBLX4BAMKHrlooD2DZB0uIarXZB9YGjOCI7u1Mtmld2mxDZBqqvPwt2IefNOenIYZBEtcO8gIlfV9rwxAiZC3NresOE6UthL9ZB5Qf39LnbF2cqZCbZBxLyUpA7HEVf37Y7NKPinE8bbu8ZBUMjr6IZA9OcfbZAwQeh9bpX454QZDZD',
+    FB_VERIFY_TOKEN: 'yothisismytokenm8',
+    API_AI_CLIENT_ACCESS_TOKEN: '5467502258f14f2f80494cf1d47b4a4e',
+    FB_APP_SECRET: 'a0e659a7adbc6319165df81a9021db37',
+    SERVER_URL: "https://whychoosename.herokuapp.com/",
 };
